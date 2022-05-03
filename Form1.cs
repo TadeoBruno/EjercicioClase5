@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
 namespace Ejercicio_clase_5
@@ -26,13 +27,10 @@ namespace Ejercicio_clase_5
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            if
-                (
-                    !String.IsNullOrWhiteSpace(txtNombre.Text) &&
-                    !String.IsNullOrWhiteSpace(txtApellido.Text) &&
-                    !String.IsNullOrWhiteSpace(txtDni.Text) &&
-                    !String.IsNullOrWhiteSpace(txtEmail.Text)
-                )   
+            if (!String.IsNullOrWhiteSpace(txtNombre.Text) &&
+                !String.IsNullOrWhiteSpace(txtApellido.Text) &&
+                !String.IsNullOrWhiteSpace(txtDni.Text) &&
+                !String.IsNullOrWhiteSpace(txtEmail.Text) &&)
             {
                 Empleados.Add(new Empleado(txtNombre.Text, txtApellido.Text, Convert.ToInt32(txtDni.Text),txtEmail.Text));
                 FillGrid();
@@ -44,7 +42,6 @@ namespace Ejercicio_clase_5
 
             }
         }
-
         private void txtDni_KeyPress(object sender, KeyPressEventArgs e)
         {
             e.Handled = !char.IsDigit(e.KeyChar) && !char.IsControl(e.KeyChar);
