@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\Ejercicio clase 5\bin\Debug\Ejercicio clase 5.exe.config
+C:\Users\Navegador\source\repos\Ejercicio clase 5\bin\Debug\Ejercicio clase 5.exe
+C:\Users\Navegador\source\repos\Ejercicio clase 5\bin\Debug\Ejercicio clase 5.pdb
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio clase 5.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio_clase_5.Form1.resources
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio_clase_5.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio clase 5.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio clase 5.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio clase 5.exe
+C:\Users\Navegador\source\repos\Ejercicio clase 5\obj\Debug\Ejercicio clase 5.pdb
